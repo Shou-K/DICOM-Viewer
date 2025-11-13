@@ -12,6 +12,9 @@
 ## 3. 起動方法
 
 1.  上記の必要ライブラリをインストールする。
+    ```bash
+    pip install pydicom numpy Pillow
+    ```
 2.  `dicom_viewer.py` ファイルを実行する。
     ```bash
     python dicom_viewer.py
